@@ -1,6 +1,6 @@
 # 🛡️ Roblox Anti-Cheat Hub
 
-A comprehensive collection of **production-ready anti-cheat solutions** for Roblox games, combining server-side detection, client-side monitoring, and active exploit prevention. Designed to protect against SaveInstance, decompilers, backdoors, and executor abuse.
+A comprehensive collection of **production-ready anti-cheat solutions** for Roblox games, combining server-side detection, client-side monitoring, and active exploit prevention. Designed to protect against SaveInstance, decompilers, backdoors, and executor abuse. All Comments were made with AI.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Roblox](https://img.shields.io/badge/Roblox-Studio-red.svg)](https://www.roblox.com/create)
